@@ -1,0 +1,2 @@
+# AIClass
+For Artificial Intelligence
